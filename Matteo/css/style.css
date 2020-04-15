@@ -1,0 +1,43 @@
+/* CSS Document */
+*{ 
+	margin: 0px;
+	padding: 0px;
+}
+
+.clr{
+	clear: both;
+}
+
+body{ 
+	background: url("../images/background.jpg") center top no-repeat;
+	font-family: boogaloo;
+	font-size: 11px;
+}
+
+.main{
+	width: 1000px;
+	margin: 0px;
+}
+/* ===== Phần Top =====*/
+.top{
+	padding: 8px;
+	width: 1865px;
+	height: 38px;
+	background: #212121;
+}
+
+.search {
+	float: right;
+	background: #fff ;
+	height: 38px;
+}
+
+.search .search_input{
+	padding: 8px;
+	margin: 2px;
+	border: 2px solid #000000;
+	float: left;
+}
+.search .search_button{
+	float: left;
+}
