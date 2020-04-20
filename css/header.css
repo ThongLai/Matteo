@@ -1,0 +1,19 @@
+.header{
+	background: url("../images/blue_slider.jpg") no-repeat center;
+	width: 1000px;
+	height: 173px; 
+	margin: 0px 431.5px 0 431.5px;
+	display:flex;
+
+}
+
+@font-face{
+	src:url("../font/Audrey-Normal.otf");
+	font-family: Audrey;
+}
+
+#logo {
+	font-family: Audrey;
+	font-size: 100px;
+	margin: 30px 275px 0px 275px;
+}
